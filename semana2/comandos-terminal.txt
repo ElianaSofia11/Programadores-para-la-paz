@@ -1,0 +1,17 @@
+git clone
+mkdir semana2
+cd semana2
+touch preguntas-semana2.txt
+nano preguntas-semana2.txt
+ls
+touch comandos-terminal.txt
+nano comandos-terminal.txt
+ls
+touch reflexion-semana2.txt
+nano reflexion-semana2.txt
+ls
+cd ..
+git add .
+git commit -m "Actividad semana 2"
+git push
+
