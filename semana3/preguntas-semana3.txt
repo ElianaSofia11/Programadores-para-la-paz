@@ -1,0 +1,12 @@
+Pregunta 1:¿Qué es Git?
+Respuesta: B.Un sistema de control de versiones
+
+Pregunta 2:¿Cuál es la función principal de un repositorio?
+Respuesta: B.Regristar y organizar los archivos y cambios de un proyecto
+
+Pregunta 3:¿Qué hace el comando git add .?
+Respuesta: B.Agrega archivos al área de preparación para registrar cambios
+
+Pregunta 4:¿Qué hace el comando git commit?
+Respuesta: A.Guardar un registro de cambios realizados en el proyecto
+

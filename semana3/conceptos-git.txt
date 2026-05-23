@@ -1,0 +1,6 @@
+Repositorio: es un sistema de almacenamiento diseñado para guardar, organizar, gestionar y proteger informacion o archivos. Dentro del desarrollo de Software su uso y funcion es almacenar el codigo fuente de un programa, los archivos y cambios.
+
+Commit: es un "punto de control" o una fotografia del estado del codigo, funciona como una version guardada a la cual se puede regresar si algo sale mal.
+
+Push: o "empujar" es un comando utilizando en git para enviar los cambios o actualizaciones que se han hecho en el codigo local hacia un repositorio en la nube (como GitHub)
+
